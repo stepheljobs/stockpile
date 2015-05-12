@@ -1,3 +1,2 @@
 # strimJS
-Trim the data stream.
-Javascript for LocalStorage connected to SockJS
+A library that manage localstorage and indexDB
