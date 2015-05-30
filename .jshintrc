@@ -1,5 +1,5 @@
 {
-  "predef": ["blumractive", "assert"],
+  "predef": ["strimjs", "assert", "SockJS", "JSON"],
   "indent": 2,
   "quotmark": "single",
   "plusplus": false,
